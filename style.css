@@ -3,3 +3,30 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center;
+}
+img[src="images/intro-pic.jpg"]{
+  margin: auto;
+  display: block;
+  width: 50%;
+}
+nav{
+  padding: 10px 10px;
+  background-color: grey;
+  text-align: center;
+}
+figcaption{
+  font-size: small;
+  text-align: center;
+}
+#featured-property section p{
+  text-align: right;
+  width: 800px;
+}
+div{
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
